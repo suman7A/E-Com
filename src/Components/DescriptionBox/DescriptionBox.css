@@ -1,0 +1,33 @@
+.description{
+    margin: 20px 120px;
+
+}
+.description-navigator{
+    display: flex;
+}
+.description-nav-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 171px;
+    height: 71px;
+    border: 1px solid #d0d0d0;
+    font-size: 16px;
+    font-weight: 600;
+}
+.description-nav-box.fade{
+color: #555;
+background: #FBFBFB;
+}
+
+.descriptionbox-description{
+    display: flex;
+    padding: 48px;
+    flex-direction: column;
+    padding-bottom: 70px;
+    gap: 25px;
+    border: 1px solid #d0d0d0;
+}
+.carticon-product-icon{
+    height: 72;
+}
